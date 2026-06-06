@@ -1,6 +1,6 @@
-[providers]
-# Explicitly enable both Node.js and Go providers
-# Node.js is needed to build the frontend (web/)
-# Go is needed to build the backend
-enabledProviders = ["node", "go"]
+[[providers]]
+name = "node"
+
+[[providers]]
+name = "go"
 
