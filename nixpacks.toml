@@ -1,6 +1,0 @@
-[[providers]]
-name = "node"
-
-[[providers]]
-name = "go"
-
